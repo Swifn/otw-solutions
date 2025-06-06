@@ -39,7 +39,7 @@ Each subfolder (e.g., `bandit/`) contains one `.md` file per level, with step-by
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com//Swifn/otw-solutions.git
+   git clone https://github.com/Swifn/otw-solutions.git
    cd otw-solutions
    ```
 2. **Navigate to a game folder**:
