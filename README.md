@@ -24,7 +24,7 @@ This repository documents my learning journey through the OverTheWire wargames, 
 otw-solutions/
 ├── bandit/
 │ ├── level00.md
-│ ├── level01.md
+│ ├── level00-01.md
 │ └── ...
 ├── leviathan/
 │ └── ...
@@ -62,7 +62,7 @@ Each subfolder (e.g., `bandit/`) contains one `.md` file per level, with step-by
 Each level includes:
 - Objective or goal
 - Commands used (with explanations)
-- Output or flags/passwords (if applicable)
+- Steps to solve
 - Lessons learned or notes
 
 ---
