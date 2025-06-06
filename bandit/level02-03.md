@@ -37,7 +37,7 @@ ls
    ```bash
    spaces in this filename
    ```
-5. **Display the contents of `-`**:
+5. **Display the contents of `spaces in this filename`**:
 ```bash
 cat "spaces in this filename"
 ```
@@ -56,3 +56,6 @@ Thats the password for `bandit3`
 - Filenames with spaces must be quoted or have the spaces escaped.
 
 - Always use `tab` to autocomplete file names - it can reduce errors and reveal formatting issues.
+
+- Knowing how to work around edge-case filenames is critical in real-world Linux usage and CTFs.
+- 
