@@ -1,6 +1,6 @@
 # Bandit Level 0
 
-## 🎯 Level Goal
+## 🎯 Objective
 
 The goal of this level is for you to log into the game using SSH.
 
@@ -13,7 +13,7 @@ Once logged in, go to the Level 1 page to continue the game.
 
 ---
 
-## 🛠️ Commands You May Need
+## 🛠️ Commands Used (with explanations)
 
 - `ssh` — Secure Shell, used to log into the remote system
 
@@ -33,7 +33,10 @@ Once logged in, go to the Level 1 page to continue the game.
    ```
 4. If successful, you’ll be logged into the Bandit Level 0 shell.
 
-5. Now continue to Level 1.
+---
+
+## 🎉 You’ve now completed Level 0!
+
 ---
 
 ## 📝 Notes
