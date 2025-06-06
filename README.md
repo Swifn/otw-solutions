@@ -10,7 +10,7 @@ This repository documents my learning journey through the OverTheWire wargames, 
 
 ## 🕹️ Games Covered
 
-- [x] Bandit (Levels 0–10)
+- [x] Bandit (Levels 0–19)
 - [ ] Narnia
 - [ ] Leviathan
 - [ ] Behemoth
@@ -48,9 +48,9 @@ Each subfolder (e.g., `bandit/`) contains one `.md` file per level, with step-by
    ```
 3. **Open a level write-up**:
    ```bash
-   nano level01.md
+   nano level00-01.md
    #—or—
-   less level01.md
+   less level00-01.md
    ```
 
 4. **Follow along**: Read the commands, replicate them on your own OverTheWire SSH session, and compare results.
