@@ -49,7 +49,7 @@ ls
     ```
     - The file is not in the home directory - it's somewhere on the system
 
-7. **Find the file with the given criteria**:
+5. **Find the file with the given criteria**:
 ```bash
  find / -type f -group bandit6 -user bandit7 2>/dev/null
 ```
@@ -58,7 +58,7 @@ ls
    /var/lib/dpkg/info/bandit7.password
    ```
 
-8. **Display the contents of the file**:
+6. **Display the contents of the file**:
 ```bash
 cat /var/lib/dpkg/info/bandit7.password
 ```
