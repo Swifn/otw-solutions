@@ -28,7 +28,7 @@ To solve this, you’ll need to reverse the hex dump and unpack the file layer b
   - `-f` - Specifies the archive file to extract
   - `data.tar` - The tar archive to extract
 - `xxd` - Creates a hex dump of a given file or standard input
-  - `-r` - - Reverses a hex dump back into binary
+  - `-r` - Reverses a hex dump back into binary
 
 
 
