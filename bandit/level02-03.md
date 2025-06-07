@@ -58,4 +58,4 @@ Thats the password for `bandit3`
 - Always use `tab` to autocomplete file names - it can reduce errors and reveal formatting issues.
 
 - Knowing how to work around edge-case filenames is critical in real-world Linux usage and CTFs.
-- 
+
