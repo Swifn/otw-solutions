@@ -23,10 +23,10 @@ To solve this, you’ll need to reverse the hex dump and unpack the file layer b
 - `bzip2` - Compresses or decompresses .bz2 files
   - `-d` - Tells bzip2 to decompress 
 - `tar` - Archive manipulation tool
-  - -x - Extract files from the archive
-  - -v - Verbose mode (shows extraction process)
-  - -f - Specifies the archive file to extract
-  - data.tar - The tar archive to extract
+  - `-x` - Extract files from the archive
+  - `-v` - Verbose mode (shows extraction process)
+  - `-f` - Specifies the archive file to extract
+  - `data.tar` - The tar archive to extract
 
 
 
