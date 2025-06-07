@@ -54,11 +54,11 @@ exit
 ---
 
 ## 🧠 Lessons Learned / Notes
-- ls and cat are essential commands for exploring and viewing file contents.
+- `ls` and `cat` are essential commands for exploring and viewing file contents.
 
 
 - Always check the current directory for clues or files.
 
-- Save the password somewhere secure — it won't be stored for you.
+- Save the password somewhere secure - it won't be stored for you.
 
 - Taking notes on each step helps in case you need to return later or explain your solution to someone else.
