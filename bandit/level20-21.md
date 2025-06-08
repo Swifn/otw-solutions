@@ -51,7 +51,7 @@ ls
     suconnect
     ```
     
-4. **Check how the binary works**:
+5. **Check how the binary works**:
 ```bash
 ./suconnect
 ```
@@ -62,7 +62,7 @@ ls
     ```
 
 
-5. **Find open ports**:
+6. **Find open ports**:
 ```bash
 nmap localhost
 ```
@@ -80,7 +80,7 @@ nmap localhost
     50001/tcp open  unknown
     ```
 
-6. **Test each port using `suconnect`**:
+7. **Test each port using `suconnect`**:
 ```bash
 ./suconnect <port>
 ```
@@ -92,7 +92,7 @@ nmap localhost
       - Although is states "sending next password", there is no password visible - this is correct
       - We have not set a listener to retrieve the response
 
-6. **Set up a `nc` listener to respond with the Bandit 20 password**:
+8. **Set up a `nc` listener to respond with the Bandit 20 password**:
 ```bash
 echo "<bandit20_password>" | nc -l -p <port> &
 ```
@@ -102,7 +102,7 @@ echo "<bandit20_password>" | nc -l -p <port> &
     ```
     - This incidates that the process is running in the background
 
-6. **Run the `suconnect` binary to connect to the listener**:
+9. **Run the `suconnect` binary to connect to the listener**:
 ```bash
 ./suconnect <port>
 ```
