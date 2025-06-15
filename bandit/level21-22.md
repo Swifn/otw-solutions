@@ -24,7 +24,7 @@ Your goal is to find **what command is being executed**, understand **what it do
 2. **Run the following command to log into the server**:
 
 ```bash
-ssh bandit20@bandit.labs.overthewire.org -p 2220
+ssh bandit21@bandit.labs.overthewire.org -p 2220
 ```
 
 3. **Enter the password**
